@@ -8,6 +8,7 @@
 - Nvidia  [Nvidia AI Research](https://www.nvidia.com/en-us/research/ai-research-residency/)
 - IBM [IBM Research AI](https://research.ibm.com/artificial-intelligence/careers/ai-residency/)
 - Novartis [Novartis AI Research](https://www.novartis.com/about/strategy/data-and-digital/artificial-intelligence/novartis-ai-life-residency-program)
+- Max Planck Summer Internship [For girls](https://imprs-ls.opencampus.net/en/maxsip_application_info)
 
 
 ##### Google's Research [Page](https://research.google/locations/zurich/)
