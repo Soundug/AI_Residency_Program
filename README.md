@@ -13,5 +13,5 @@
 
 ##### Google's Research [Page](https://research.google/locations/zurich/)
 
-############Blog
+##### Blogs
 - MKAI [Open AI](https://mkai.org/openai-residency/
